@@ -1,4 +1,4 @@
-# Hola, soy [DIEGO] 👋
+# Hola, soy DIEGO 👋
 
 ## 🚀 Sobre mí
 
@@ -14,13 +14,13 @@ Soy un **estudiante de programación** con un enfoque en el desarrollo Back-end 
 
 ## 💼 Proyectos Destacados
 
-### [Blog de Viajes](https://github.com/tuusuario/blog-de-viajes)
-- **Descripción**: Una aplicación web para compartir y explorar experiencias de viajes, creada con Django y MySQL.
+### [Blog](https://github.com/escobardie/blog_tecno_com_3)
+- **Descripción**: Una aplicación web para compartir y explorar experiencias, creada con Django y MySQL.
 - **Tecnologías**: Python, Django, MySQL
 
-### [Análisis de Datos de Ventas](https://github.com/tuusuario/analisis-datos-ventas)
-- **Descripción**: Un análisis de datos para predecir tendencias de ventas utilizando Python y Pandas.
-- **Tecnologías**: Python, Pandas, NumPy
+### [Análisis de Datos de Ventas](https://github.com/escobardie/)
+- **Descripción**: "PROXIMANMENTE EN SUBIR REPO" Un análisis de datos con Python y Pandas.
+- **Tecnologías**: Python, Pandas
 
 ## 📚 Aprendizaje y Educación
 
