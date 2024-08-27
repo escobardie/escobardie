@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy [DIEGO] 👋
 
 ## 🚀 Sobre mí
 
@@ -9,8 +9,8 @@ Soy un **estudiante de programación** con un enfoque en el desarrollo Back-end 
 - **Lenguajes de Programación**: Python
 - **Frameworks**: Django
 - **Bases de Datos**: MySQL
-- **Análisis de Datos**: [Pandas, NumPy]
-- **Otros**: [Git, Docker]
+- **Análisis de Datos**: Pandas
+- **Otros**: Git | GITHUB DESKTOP
 
 ## 💼 Proyectos Destacados
 
@@ -25,10 +25,7 @@ Soy un **estudiante de programación** con un enfoque en el desarrollo Back-end 
 ## 📚 Aprendizaje y Educación
 
 - **Estudios en Curso**: Análisis de Datos en Informatorio
-- **Certificaciones**: Formación SQL con MySQL
-                       SQL con MySQL Server de Oracle - ONE
-                       Programación Web con Python y Django
-                       Programa Oracle Next Education F2 T4 Back-end
+- **Certificaciones**: Formación SQL con MySQL | SQL con MySQL Server de Oracle - ONE | Programación Web con Python y Django | Programa Oracle Next Education F2 T4 Back-end
 
 ## 🌱 Objetivos
 
